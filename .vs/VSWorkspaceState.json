@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Todo",
+    "\\Todo\\Controllers",
+    "\\Todo\\Migrations",
+    "\\Todo\\Models",
+    "\\Todo\\obj",
+    "\\Todo\\Properties",
+    "\\Todo\\Views",
+    "\\Todo\\Views\\Home",
+    "\\Todo\\wwwroot"
+  ],
+  "SelectedNode": "\\TodoApp.sln",
+  "PreviewInSolutionExplorer": false
+}
